@@ -1,0 +1,8 @@
+Package,Version,Purpose,Notes
+pandas,2.2.2,Data manipulation and preprocessing,Used for cleaning and handling restaurant dataset
+numpy,1.26.4,Numerical computations,Supports matrix operations and numerical transformations
+scikit-learn,1.5.0,Machine learning algorithms,Used for One-Hot Encoding, TruncatedSVD, and KMeans clustering
+scipy,1.13.0,Scientific computing,Supports sparse matrices and similarity computations
+joblib,1.4.2,Model persistence,Used to save/load encoder, clustering models, and feature names
+streamlit,1.33.0,Web application framework,Builds interactive recommendation system UI
+geopy,2.4.1,Geolocation and distance calculations,Optional: used for geodesic distance between restaurants
